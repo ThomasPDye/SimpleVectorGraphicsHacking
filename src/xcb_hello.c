@@ -1,4 +1,5 @@
 #include <config.h>
+/* Copied from XCB tutorial at https://xcb.freedesktop.org/tutorial/ */
 #include <unistd.h>      /* pause() */
 
 #include <xcb/xcb.h>

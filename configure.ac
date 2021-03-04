@@ -1,4 +1,4 @@
-AC_INIT([xcb_hello], [0.1], [tompdye@gmail.com])
+AC_INIT([Simple Vector Graphics], [0.1], [tompdye@gmail.com])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 AC_PROG_CC
 PKG_CHECK_MODULES(XCB, xcb)
