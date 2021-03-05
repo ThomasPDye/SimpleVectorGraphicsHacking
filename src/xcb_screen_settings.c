@@ -35,7 +35,5 @@ main (int argc, char * argv[])
     printf ("  black pixel...: %"PRIu32"\n", screen->black_pixel);
     printf ("\n");
 
-    xcb_disconnect (connection);
-
     return 0;
 }

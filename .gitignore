@@ -56,3 +56,8 @@ Makefile
 
 # configured header
 config.h
+stamp-h1
+
+# final executables
+src/xcb_hello
+src/xcb_screen_settings
